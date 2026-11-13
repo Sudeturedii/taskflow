@@ -3,6 +3,7 @@
 **Proje Adı:** TaskFlow - Görev ve Proje Yönetim Sistemi API
 **Eğitim:** Node.js ile Backend Programlama - Bitirme Projesi (2026)
 **Hazırlayan:** <Ad Soyad>
+**Hazırlayan:** Sude Türedi
 
 ## 1. Projenin Amacı
 
