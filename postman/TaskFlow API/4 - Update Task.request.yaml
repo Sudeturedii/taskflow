@@ -1,0 +1,12 @@
+$kind: http-request
+url: "{{baseUrl}}/tasks/1"
+method: PUT
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: |-
+    {
+      "status": "done"
+    }
+order: 4000

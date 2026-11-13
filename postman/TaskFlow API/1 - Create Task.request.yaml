@@ -1,0 +1,17 @@
+$kind: http-request
+description: ""
+url: "{{baseUrl}}/tasks"
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: json
+  content: |-
+    {
+      "title": "API testlerini yaz",
+      "description": "Postman ile tüm endpoint'leri test et",
+      "status": "todo",
+      "priority": "high",
+      "assignee": "Mehmet"
+    }
+order: 1000

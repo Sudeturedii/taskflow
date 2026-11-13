@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "Giriş (login) endpoint'ini yaz",
+    "description": "POST /login endpoint'i kullanıcı bilgilerini kontrol etmeli.",
+    "status": "in-progress",
+    "priority": "high",
+    "assignee": "Ahmet"
+  },
+  {
+    "id": 2,
+    "title": "Veritabanı şemasını tasarla",
+    "description": "Kullanıcı, görev ve proje tablolarının ilişkilerini belirle.",
+    "status": "done",
+    "priority": "high",
+    "assignee": "Ayşe"
+  },
+  {
+    "id": 3,
+    "title": "Ana sayfa tasarımını hazırla",
+    "description": "Ana sayfa için wireframe çiz ve ekiple paylaş.",
+    "status": "todo",
+    "priority": "medium",
+    "assignee": "Mehmet"
+  },
+  {
+    "id": 4,
+    "title": "README dosyasını yaz",
+    "description": "Projenin kurulum ve çalıştırma adımlarını anlat.",
+    "status": "in-progress",
+    "priority": "medium",
+    "assignee": "Ahmet"
+  },
+  {
+    "id": 5,
+    "title": "Postman testlerini yap",
+    "description": "Tüm CRUD endpoint'lerini Postman ile test et.",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Ayşe"
+  },
+  {
+    "id": 6,
+    "title": "API testlerini yaz",
+    "description": "Postman ile tüm endpoint'leri test et",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Mehmet"
+  },
+  {
+    "id": 7,
+    "title": "API testlerini yaz",
+    "description": "Postman ile tüm endpoint'leri test et",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Mehmet"
+  },
+  {
+    "id": 8,
+    "title": "API testlerini yaz",
+    "description": "Postman ile tüm endpoint'leri test et",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Mehmet"
+  },
+  {
+    "id": 9,
+    "title": "API testlerini yaz",
+    "description": "Postman ile tüm endpoint'leri test et",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Mehmet"
+  },
+  {
+    "id": 10,
+    "title": "API testlerini yaz",
+    "description": "Postman ile tüm endpoint'leri test et",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Mehmet"
+  },
+  {
+    "id": 11,
+    "title": "API testlerini yaz",
+    "description": "Postman ile tüm endpoint'leri test et",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Mehmet"
+  },
+  {
+    "id": 12,
+    "title": "API testlerini yaz",
+    "description": "Postman ile tüm endpoint'leri test et",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Mehmet"
+  },
+  {
+    "id": 13,
+    "title": "API testlerini yaz",
+    "description": "Postman ile tüm endpoint'leri test et",
+    "status": "todo",
+    "priority": "high",
+    "assignee": "Mehmet"
+  }
+]

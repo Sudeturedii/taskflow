@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 4358ae0d-e8ff-432d-84e6-d6d9d85971fe
+
+localResources:
+  collections:
+    - ../TaskFlow API
